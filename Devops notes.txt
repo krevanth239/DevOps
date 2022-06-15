@@ -1,0 +1,42 @@
+-----GIT---
+
+Working directory-- working area
+Staging Area--- Rough draft space-- need to git add
+Repository--- Project folder where all data related to project saved
+
+types of repos---
+
+Local repo-- .git directory--- we see all our checkpoints or commits. Here we saves everything( so don't delete)
+
+Central Repo--- presents in Github where we share all your files. Need to add and commit your files to push to github
+
+Remote Repo-- presents remote hosts where you can share all your files to remore machines.
+
+sudo -i  -- User
+yum install git -y (-y permission will not be asked)
+clear or ctrl l
+ll
+ls-al
+git init -- to initiate git
+touch file1
+vim --to add data
+cat --- to open file
+git add 
+git commit -m
+git log
+git status
+
+***GIT HUB***
+
+Web based platform for version control
+simplfiles the process by collaborate
+Team members can work on files and easily merge
+
+*To push your code to github
+
+
+
+
+
+
+
